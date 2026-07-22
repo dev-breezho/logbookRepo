@@ -12,4 +12,5 @@ welcomeButton.addEventListener("click", function () {
 
     // Record the action in the browser console.
     console.log("The welcome button was clicked.");
+    console.log("Testing the changes.");
 });
