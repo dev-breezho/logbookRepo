@@ -9,6 +9,8 @@ welcomeButton.addEventListener("click", function () {
 
     // Display a popup message to the user.
     alert("Welcome! This message was displayed using JavaScript.");
+	
+    alert("Welcome! This message was displayed using JavaScript.");
 
     // Record the action in the browser console.
     console.log("The welcome button was clicked.");
